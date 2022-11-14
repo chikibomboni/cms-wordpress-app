@@ -214,3 +214,4 @@ Alternatively, you can deploy using our template by clicking on the Deploy butto
 # cms-wordpress-app
 # sashatest
 # push
+# sashatest
